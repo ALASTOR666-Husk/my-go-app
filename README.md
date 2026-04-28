@@ -262,7 +262,7 @@ docker run -it --rm my-go-app:latest /bin/sh
 ```shell
 cat /etc/os-release
 ```
-![Hello from my Go app!](/content/DevOps/CI_CD/img/8_workflow.png)
+![Hello from my Go app!](2026-04-28_22-57-00.png)
 
 выйти из контейнра:
 ```shell
