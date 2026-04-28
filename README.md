@@ -216,7 +216,7 @@ docker run --rm -v "$(pwd):/app" -w /app alpine ./my-app
 Hello from Go app!
 2 + 3 = 5
 ```
-![Hello from my Go app!](/content/DevOps/CI_CD/img/6_workflow.png)
+![Hello from my Go app!](2026-04-28_22-55-15.png)
 
 либо запустить бинарный файл собранного на Go приложения в консоле
 ```shell
